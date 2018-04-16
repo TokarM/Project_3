@@ -4,6 +4,16 @@ html {
   min-width: 400px;
   margin: auto;
 }
+#my_passion {
+  text-align: center;
+}
+.slider img {
+  display: block;
+  margin: 0 auto;
+}
+.bx-wrapper {
+  margin: auto;
+}
 .navigation {
   width: 100%;
   background-color: #333;
