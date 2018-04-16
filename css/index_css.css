@@ -71,6 +71,9 @@ html #index {
 #contact_info {
   text-align: center;
 }
+#contact_info h1{
+  margin-top: 50px;
+}
 #education {
   margin-left: 5%;
   margin-right: 5%;
