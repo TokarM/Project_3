@@ -174,4 +174,8 @@ html #my_programs {
 .screenshot {
   width: 100%;
 }
+@media screen and (max-width: 400px) {
+.navigation li {
+  width: 100%;
+  }
 }
